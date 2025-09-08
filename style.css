@@ -4,7 +4,7 @@ body {
     padding: 4px;
     box-sizing: border-box;
     background-color: black;
-    color: white;
+    color: black;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
